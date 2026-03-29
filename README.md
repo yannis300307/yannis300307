@@ -13,7 +13,7 @@
 - I use Linux for everything. My main distro is Linux Mint (+ KDE Plasma) but I use Debian, Raspberry Pi OS and Alpine Linux on my servers.
 - Linux > MacOS > Temple OS >>>>>> Windows (Windaube for the french folks here) btw.
 - I don't like Microlop. (Hum Github is own by microslop, I could get banned for writing this 😅)
-- I like **calculators** (Numworks > Cadio > TI)
+- I like **calculators** (Numworks > Casio > TI)
 - I like Raspberry pi.
 - I love **Ghibli** films! (**Ghibli** > * . GO WATCH IT NOW!)
 - I like cheese.
