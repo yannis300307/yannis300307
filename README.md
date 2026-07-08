@@ -11,7 +11,7 @@
 
 ### Fun facts you don't care about but I want you to know:
 - I use Linux for everything. My main distro is Linux Mint (+ KDE Plasma) but I use Debian, Raspberry Pi OS and Alpine Linux on my servers.
-- Linux > MacOS > Temple OS >>>>>> Windows (Windaube for the french folks here) btw.
+- Linux > Temple OS >>> MacOS >>> Windows (Windaube for the french folks here) btw.
 - I don't like Microslop. (Hum Github is own by Microslop, I could get banned for writing this 😅)
 - I like **calculators** (Numworks > Casio > TI)
 - I like Raspberry pi.
