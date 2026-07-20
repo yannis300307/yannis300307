@@ -20,9 +20,7 @@
 - I like ranking random things.
 
 ### What about AI?
-I share Linus Torvalds' take about IA code. IA is fine for things that are not important.
-
-**BUT**, I **dont't** use IA to write code. I personally **hate** using AI for that.
+I **dont't** use IA to write code. I personally **hate** using AI for that.
 And more importantly, I absolutly hate IA """"art"""". AI "art" **is not** art.
 
 ### How to reach me?
